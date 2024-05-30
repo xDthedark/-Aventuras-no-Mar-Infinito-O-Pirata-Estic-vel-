@@ -155,7 +155,7 @@ Ragnar e Kaito combinam suas habilidades de forma brilhante para derrotar Barbas
 Após uma luta feroz, eles finalmente derrotam Barbas, garantindo que o tesouro permaneça em suas mãos.
 
 <div align="center">
-    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/56de43a9-5f52-4f6e-a2cf-1c33c9bc5fc0/Default_A_cavern_filled_with_treasures_with_piles_of_gold_coin_0.jpg" alt"cp09" width="600" height="auto">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/a83b27f7-c365-4b13-8ebc-5e6378bf9716/Default_Description_Ragnar_and_Kaito_facing_off_against_Barbas_1.jpg" alt"cp09" width="600" height="auto">
 </div>
 
 
