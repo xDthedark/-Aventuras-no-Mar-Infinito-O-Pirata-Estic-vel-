@@ -127,7 +127,7 @@ Durante a travessia, eles são atacados por um Kraken gigantesco. Kaito usa seus
 Após uma batalha intensa, eles conseguem derrotar o Kraken e continuar sua jornada.
 
 <div align="center">
-    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/bbca42ba-735e-4f04-b2cb-75cd5c825aac/Default_Kaito_is_a_teenager_with_messy_hair_and_bright_eyes_sp_1.jpg" alt"cp7" width="600" height="auto">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/e2852612-7785-4fee-841b-7c51842185c0/Default_Ragnar_and_Kaitos_ship_facing_a_violent_storm_at_sea_w_0.jpg" alt"cp7" width="600" height="auto">
 </div>
 
 
@@ -140,7 +140,7 @@ Chegando ao local indicado pelo mapa, eles encontram uma caverna submersa replet
 Enquanto exploravam a caverna, eles descobrem que o tesouro é mais do que apenas riquezas materiais; inclui também artefatos antigos com poderes misteriosos.
 
 <div align="center">
-    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/e2852612-7785-4fee-841b-7c51842185c0/Default_Ragnar_and_Kaitos_ship_facing_a_violent_storm_at_sea_w_0.jpg" alt"cp8" width="600" height="auto">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/56de43a9-5f52-4f6e-a2cf-1c33c9bc5fc0/Default_A_cavern_filled_with_treasures_with_piles_of_gold_coin_0.jpg" alt"cp8" width="600" height="auto">
 </div>
 
 
