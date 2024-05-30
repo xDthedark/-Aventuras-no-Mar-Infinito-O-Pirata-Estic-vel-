@@ -51,7 +51,7 @@ Kaito, fascinado pelas histórias de Ragnar sobre os mares e os tesouros escondi
 No início de sua jornada, Ragnar ensina Kaito sobre navegação e as artes da pirataria, enquanto Kaito demonstra suas habilidades elásticas em várias situações práticas.
 
 <div align="center">
-    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/bbca42ba-735e-4f04-b2cb-75cd5c825aac/Default_Kaito_is_a_teenager_with_messy_hair_and_bright_eyes_sp_1.jpg" alt"cp1" width="600" height="auto">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/bbca42ba-735e-4f04-b2cb-75cd5c825aac/Default_Kaito_is_a_teenager_with_messy_hair_and_bright_eyes_sp_1.jpg" alt"cp2" width="600" height="auto">
 </div>
 
 
@@ -69,7 +69,10 @@ Kaito usou seus poderes para desviar os ataques e confundir os inimigos, enquant
 
 Depois de uma batalha intensa, Ragnar e Kaito saem vitoriosos, ganhando o respeito de sua nova tripulação.
 
-(Insira a Imagem 3 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/c6fbd7d2-0503-4f3b-9412-c64dc65df0c2/Default_A_large_pirate_ship_sailing_on_the_open_sea_with_sails_0.jpg" alt"cp3" width="600" height="auto">
+</div>
+
 
 __Capítulo 4: A Ilha Misteriosa__
 
@@ -79,7 +82,10 @@ A tripulação chega a uma ilha misteriosa repleta de armadilhas e enigmas. A il
 
 Enquanto exploravam a ilha, eles encontram antigos pergaminhos que revelam pistas sobre a localização do tesouro e uma advertência sobre um guardião poderoso que protege o segredo.
 
-(Insira a Imagem 4 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/84551a5f-b883-4682-826f-dc2a21fefa6b/Default_A_mysterious_tropical_island_with_dense_vegetation_mou_0.jpg" alt"cp4" width="600" height="auto">
+</div>
+
 
 __Capítulo 5: Encontro com o Guardião__
 
@@ -93,7 +99,10 @@ A batalha contra o guardião é épica, com Ragnar e Kaito combinando suas habil
 
 Depois de uma luta intensa, eles finalmente derrotam o guardião e encontram um mapa que revela a localização exata do tesouro de Poseidon.
 
-(Insira a Imagem 5 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/084c77da-e0d0-4418-8b47-bf55cc3ea0cf/Default_Ragnar_and_Kaito_facing_off_against_a_powerful_guardia_1.jpg" alt"cp5" width="600" height="auto">
+</div>
+
 
 __Capítulo 6: O Mapa do Tesouro__
 
@@ -103,7 +112,9 @@ Com o mapa em mãos, Ragnar e Kaito voltam ao navio e começam a planejar sua pr
 
 A tripulação se prepara para a viagem, sabendo que enfrentarão desafios ainda maiores.
 
-(Insira a Imagem 6 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/4500edbe-cc44-4750-b3d7-587fa2f5cd5f/Default_An_old_handdrawn_treasure_map_with_details_of_islands_0.jpg" alt"cp6" width="600" height="auto">
+</div>
 
 __Capítulo 7: A Travessia Perigosa__
 
@@ -115,7 +126,10 @@ Durante a travessia, eles são atacados por um Kraken gigantesco. Kaito usa seus
 
 Após uma batalha intensa, eles conseguem derrotar o Kraken e continuar sua jornada.
 
-(Insira a Imagem 7 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/bbca42ba-735e-4f04-b2cb-75cd5c825aac/Default_Kaito_is_a_teenager_with_messy_hair_and_bright_eyes_sp_1.jpg" alt"cp7" width="600" height="auto">
+</div>
+
 
 __Capítulo 8: A Revelação do Tesouro__
 
@@ -125,7 +139,10 @@ Chegando ao local indicado pelo mapa, eles encontram uma caverna submersa replet
 
 Enquanto exploravam a caverna, eles descobrem que o tesouro é mais do que apenas riquezas materiais; inclui também artefatos antigos com poderes misteriosos.
 
-(Insira a Imagem 8 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/e2852612-7785-4fee-841b-7c51842185c0/Default_Ragnar_and_Kaitos_ship_facing_a_violent_storm_at_sea_w_0.jpg" alt"cp8" width="600" height="auto">
+</div>
+
 
 __Capítulo 9: A Batalha Final__
 
@@ -137,7 +154,10 @@ Ragnar e Kaito combinam suas habilidades de forma brilhante para derrotar Barbas
 
 Após uma luta feroz, eles finalmente derrotam Barbas, garantindo que o tesouro permaneça em suas mãos.
 
-(Insira a Imagem 9 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/56de43a9-5f52-4f6e-a2cf-1c33c9bc5fc0/Default_A_cavern_filled_with_treasures_with_piles_of_gold_coin_0.jpg" alt"cp09" width="600" height="auto">
+</div>
+
 
 __Capítulo 10: O Novo Começo__
 
@@ -147,4 +167,7 @@ Com o tesouro em mãos, Ragnar e Kaito voltam ao navio, prontos para novas avent
 
 Eles partem em direção ao pôr do sol, sabendo que muitas aventuras ainda os aguardam.
 
-(Insira a Imagem 10 aqui)
+<div align="center">
+    <img src="https://cdn.leonardo.ai/users/dacb4424-62a2-41f0-8f18-a4dc196a8f90/generations/5ae0e236-d3b4-4c84-ac5e-81ef048ed6bd/Default_Ttulo_Adventures_on_the_Infinite_Sea_The_Stretchable_P_0.jpg" alt"cp10" width="600" height="auto">
+</div>
+
